@@ -1,0 +1,19 @@
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Artifacts
+artifacts/
+*.pth
+*.pt
+
+# Logs
+*.log
